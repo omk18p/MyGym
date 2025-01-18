@@ -93,3 +93,4 @@
 // commit 1 on 2025-01-19: style: apply consistent spacing
 // commit 2 on 2025-01-19: style: adjust padding and margins
 // commit 1 on 2025-01-18: test: snapshot test update
+// commit 2 on 2025-01-18: feat: add logout feature
