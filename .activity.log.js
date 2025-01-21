@@ -89,3 +89,4 @@
 // commit 2 on 2025-01-25: chore: clean up files
 // commit 1 on 2025-01-24: update: reorder navbar items
 // commit 1 on 2025-01-21: test: add API mock
+// commit 2 on 2025-01-21: refactor: consolidate conditions
