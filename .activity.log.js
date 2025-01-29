@@ -83,3 +83,4 @@
 // commit 1 on 2025-02-08: docs: add API documentation
 // commit 1 on 2025-02-03: refactor: extract utility method
 // commit 1 on 2025-01-29: docs: add usage examples
+// commit 2 on 2025-01-29: ci: update GitHub Actions config
