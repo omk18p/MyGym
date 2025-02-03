@@ -81,3 +81,4 @@
 // commit 2 on 2025-02-13: feat: improve error message UX
 // commit 1 on 2025-02-11: update: change favicon
 // commit 1 on 2025-02-08: docs: add API documentation
+// commit 1 on 2025-02-03: refactor: extract utility method
