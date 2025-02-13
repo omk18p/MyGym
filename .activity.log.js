@@ -77,3 +77,4 @@
 // commit 1 on 2025-02-20: docs: add API documentation
 // commit 2 on 2025-02-20: docs: fix broken link in docs
 // commit 1 on 2025-02-14: fix: layout shift issue
+// commit 1 on 2025-02-13: refactor: consolidate conditions
