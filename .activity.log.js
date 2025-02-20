@@ -74,3 +74,4 @@
 // commit 2 on 2025-03-02: docs: improve explanation in overview
 // commit 1 on 2025-02-22: style: center align text
 // commit 2 on 2025-02-22: feat: implement copy-to-clipboard
+// commit 1 on 2025-02-20: docs: add API documentation
