@@ -72,3 +72,4 @@
 // commit 2 on 2025-03-03: feat: add logout feature
 // commit 1 on 2025-03-02: docs: add usage examples
 // commit 2 on 2025-03-02: docs: improve explanation in overview
+// commit 1 on 2025-02-22: style: center align text
