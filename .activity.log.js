@@ -70,3 +70,4 @@
 // commit 1 on 2025-03-05: ci: fix deploy script
 // commit 1 on 2025-03-03: feat: improve error message UX
 // commit 2 on 2025-03-03: feat: add logout feature
+// commit 1 on 2025-03-02: docs: add usage examples
