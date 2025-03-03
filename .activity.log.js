@@ -68,3 +68,4 @@
 // commit 1 on 2025-03-06: chore: rename component
 // commit 2 on 2025-03-06: docs: update README
 // commit 1 on 2025-03-05: ci: fix deploy script
+// commit 1 on 2025-03-03: feat: improve error message UX
