@@ -67,3 +67,4 @@
 // commit 1 on 2025-03-07: chore: clean up files
 // commit 1 on 2025-03-06: chore: rename component
 // commit 2 on 2025-03-06: docs: update README
+// commit 1 on 2025-03-05: ci: fix deploy script
