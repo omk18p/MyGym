@@ -65,3 +65,4 @@
 // commit 1 on 2025-03-08: feat: keyboard shortcut support
 // commit 2 on 2025-03-08: fix: layout shift issue
 // commit 1 on 2025-03-07: chore: clean up files
+// commit 1 on 2025-03-06: chore: rename component
