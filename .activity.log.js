@@ -63,3 +63,4 @@
 // commit 1 on 2025-03-11: test: snapshot test update
 // commit 2 on 2025-03-11: ci: update GitHub Actions config
 // commit 1 on 2025-03-08: feat: keyboard shortcut support
+// commit 2 on 2025-03-08: fix: layout shift issue
