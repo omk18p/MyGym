@@ -59,3 +59,4 @@
 // commit 2 on 2025-03-22: docs: fix broken link in docs
 // commit 1 on 2025-03-16: docs: fix broken link in docs
 // commit 2 on 2025-03-16: feat: improve error message UX
+// commit 1 on 2025-03-12: feat: add logout feature
