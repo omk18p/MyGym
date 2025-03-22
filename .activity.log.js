@@ -56,3 +56,4 @@
 // commit 1 on 2025-03-23: test: add form validation tests
 // commit 2 on 2025-03-23: fix: improve null check
 // commit 1 on 2025-03-22: fix: crash on login edge case
+// commit 2 on 2025-03-22: docs: fix broken link in docs
