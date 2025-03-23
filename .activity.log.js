@@ -54,3 +54,4 @@
 // commit 1 on 2025-03-24: ci: fix deploy script
 // commit 2 on 2025-03-24: test: add API mock
 // commit 1 on 2025-03-23: test: add form validation tests
+// commit 2 on 2025-03-23: fix: improve null check
