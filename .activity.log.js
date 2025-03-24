@@ -52,3 +52,4 @@
 // commit 1 on 2025-03-25: refactor: move logic to hooks
 // commit 2 on 2025-03-25: style: adjust padding and margins
 // commit 1 on 2025-03-24: ci: fix deploy script
+// commit 2 on 2025-03-24: test: add API mock
