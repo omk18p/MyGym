@@ -50,3 +50,4 @@
 // commit 1 on 2025-03-27: feat: implement copy-to-clipboard
 // commit 2 on 2025-03-27: ci: fix workflow name
 // commit 1 on 2025-03-25: refactor: move logic to hooks
+// commit 2 on 2025-03-25: style: adjust padding and margins
