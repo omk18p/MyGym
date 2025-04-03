@@ -46,3 +46,4 @@
 // commit 1 on 2025-04-14: fix: improve null check
 // commit 1 on 2025-04-08: test: snapshot test update
 // commit 1 on 2025-04-06: update: reorder navbar items
+// commit 1 on 2025-04-03: fix: bug in input validation
