@@ -45,3 +45,4 @@
 // commit 1 on 2025-04-16: docs: add API documentation
 // commit 1 on 2025-04-14: fix: improve null check
 // commit 1 on 2025-04-08: test: snapshot test update
+// commit 1 on 2025-04-06: update: reorder navbar items
