@@ -42,3 +42,4 @@
 // commit 1 on 2025-04-23: feat: improve error message UX
 // commit 1 on 2025-04-18: style: center align text
 // commit 2 on 2025-04-18: refactor: simplify async call
+// commit 1 on 2025-04-16: docs: add API documentation
