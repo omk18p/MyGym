@@ -40,3 +40,4 @@
 // commit 1 on 2025-04-24: style: update color palette
 // commit 2 on 2025-04-24: test: add API mock
 // commit 1 on 2025-04-23: feat: improve error message UX
+// commit 1 on 2025-04-18: style: center align text
