@@ -37,3 +37,4 @@
 // commit 1 on 2025-04-28: feat: add logout feature
 // commit 2 on 2025-04-28: chore: clean up files
 // commit 1 on 2025-04-26: style: update color palette
+// commit 1 on 2025-04-24: style: update color palette
