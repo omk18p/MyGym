@@ -33,3 +33,4 @@
 // commit 1 on 2025-05-03: test: add unit test for auth
 // commit 2 on 2025-05-03: style: fix font sizes
 // commit 1 on 2025-05-01: style: center align text
+// commit 2 on 2025-05-01: chore: rename component
