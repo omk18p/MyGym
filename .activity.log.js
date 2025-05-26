@@ -24,3 +24,4 @@
 // commit 1 on 2025-05-31: fix: crash on login edge case
 // commit 1 on 2025-05-29: feat: implement copy-to-clipboard
 // commit 1 on 2025-05-26: refactor: simplify async call
+// commit 2 on 2025-05-26: ci: fix workflow name
