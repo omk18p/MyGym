@@ -22,3 +22,4 @@
 // commit 1 on 2025-06-02: fix: layout shift issue
 // commit 2 on 2025-06-02: docs: improve explanation in overview
 // commit 1 on 2025-05-31: fix: crash on login edge case
+// commit 1 on 2025-05-29: feat: implement copy-to-clipboard
