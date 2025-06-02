@@ -20,3 +20,4 @@
 // commit 2 on 2025-06-05: update: tweak button behavior
 // commit 1 on 2025-06-03: style: responsive layout tweaks
 // commit 1 on 2025-06-02: fix: layout shift issue
+// commit 2 on 2025-06-02: docs: improve explanation in overview
