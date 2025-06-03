@@ -18,3 +18,4 @@
 // commit 2 on 2025-06-09: test: add API mock
 // commit 1 on 2025-06-05: chore: rename component
 // commit 2 on 2025-06-05: update: tweak button behavior
+// commit 1 on 2025-06-03: style: responsive layout tweaks
