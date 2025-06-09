@@ -15,3 +15,4 @@
 // commit 1 on 2025-06-10: refactor: extract utility method
 // commit 2 on 2025-06-10: style: adjust padding and margins
 // commit 1 on 2025-06-09: docs: improve explanation in overview
+// commit 2 on 2025-06-09: test: add API mock
